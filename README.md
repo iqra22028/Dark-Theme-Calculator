@@ -14,7 +14,4 @@
 ✅ CSS – Creating a stylish dark theme with smooth animations
 ✅ JavaScript – Implementing logic for calculations and interactivity
 
-🚀 Live Preview & Source Code
-📌 Check it out here: [Insert GitHub Repo Link] 🔗
 
-A big thanks to my learning journey and inspiration from creative UI designs! Looking forward to building more cool projects. 🚀
